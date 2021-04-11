@@ -1,5 +1,13 @@
-# Tarea para los estudiantes de Ingeniería en Informática y Sistemas
- Repositorio para que los estudiantes del primer año de Ingeniería en Informática y Sistemas puedan poner en práctica lo aprendido sobre GIT.
-
-## Autor
-Datos sobre el programador.
+# Datos sobre mí
+## Artistas Favoritos
+Twenty One Pilots
+Imagine Dragons
+Coldplay
+Morat
+Mother Mother
+## Hobbies
+Jugar videojuegos como si no hubiera un mañana :v
+Dormir
+Leer
+## Color Favorito
+Rojo
